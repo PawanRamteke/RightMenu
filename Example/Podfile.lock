@@ -1,0 +1,14 @@
+PODS:
+  - RightMenu (0.1.0)
+
+DEPENDENCIES:
+  - RightMenu (from `../`)
+
+EXTERNAL SOURCES:
+  RightMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RightMenu: b22ec7d30455fc8093186959f7456f63c3ac6c40
+
+COCOAPODS: 0.39.0

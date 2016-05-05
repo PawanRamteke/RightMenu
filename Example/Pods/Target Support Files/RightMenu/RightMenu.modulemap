@@ -1,0 +1,6 @@
+framework module RightMenu {
+  umbrella header "RightMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
