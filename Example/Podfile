@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RightMenu_Example', :exclusive => true do
+  pod 'RightMenu', :path => '../'
+end
+
+target 'RightMenu_Tests', :exclusive => true do
+  pod 'RightMenu', :path => '../'
+
+  
+end
